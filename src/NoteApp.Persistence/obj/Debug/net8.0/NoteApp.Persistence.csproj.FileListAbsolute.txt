@@ -15,3 +15,6 @@ C:\Users\hmztp\RiderProjects\NoteApp\src\NoteApp.Persistence\obj\Debug\net8.0\No
 C:\Users\hmztp\RiderProjects\NoteApp\src\NoteApp.Persistence\obj\Debug\net8.0\refint\NoteApp.Persistence.dll
 C:\Users\hmztp\RiderProjects\NoteApp\src\NoteApp.Persistence\obj\Debug\net8.0\NoteApp.Persistence.pdb
 C:\Users\hmztp\RiderProjects\NoteApp\src\NoteApp.Persistence\obj\Debug\net8.0\ref\NoteApp.Persistence.dll
+C:\Users\hmztp\RiderProjects\NoteApp\src\NoteApp.Persistence\bin\Debug\net8.0\NoteApp.Persistence.runtimeconfig.json
+C:\Users\hmztp\RiderProjects\NoteApp\src\NoteApp.Persistence\obj\Debug\net8.0\NoteApp.Persistence.sourcelink.json
+C:\Users\hmztp\RiderProjects\NoteApp\src\NoteApp.Persistence\obj\Debug\net8.0\NoteApp.Persistence.genruntimeconfig.cache

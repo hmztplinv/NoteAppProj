@@ -9,3 +9,4 @@ C:\Users\hmztp\RiderProjects\NoteApp\src\NoteApp.Infrastructure\obj\Debug\net8.0
 C:\Users\hmztp\RiderProjects\NoteApp\src\NoteApp.Infrastructure\obj\Debug\net8.0\refint\NoteApp.Infrastructure.dll
 C:\Users\hmztp\RiderProjects\NoteApp\src\NoteApp.Infrastructure\obj\Debug\net8.0\NoteApp.Infrastructure.pdb
 C:\Users\hmztp\RiderProjects\NoteApp\src\NoteApp.Infrastructure\obj\Debug\net8.0\ref\NoteApp.Infrastructure.dll
+C:\Users\hmztp\RiderProjects\NoteApp\src\NoteApp.Infrastructure\obj\Debug\net8.0\NoteApp.Infrastructure.sourcelink.json

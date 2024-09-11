@@ -13,3 +13,4 @@ C:\Users\hmztp\RiderProjects\NoteApp\src\NoteApp.Application\obj\Debug\net8.0\No
 C:\Users\hmztp\RiderProjects\NoteApp\src\NoteApp.Application\obj\Debug\net8.0\refint\NoteApp.Application.dll
 C:\Users\hmztp\RiderProjects\NoteApp\src\NoteApp.Application\obj\Debug\net8.0\NoteApp.Application.pdb
 C:\Users\hmztp\RiderProjects\NoteApp\src\NoteApp.Application\obj\Debug\net8.0\ref\NoteApp.Application.dll
+C:\Users\hmztp\RiderProjects\NoteApp\src\NoteApp.Application\obj\Debug\net8.0\NoteApp.Application.sourcelink.json
