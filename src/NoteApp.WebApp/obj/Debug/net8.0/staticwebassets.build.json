@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "m9DogJjDYU1U4MEEEoZ7C6fZAWKk6K19kCOXHXQr9e4=",
+  "Source": "NoteApp.WebApp",
+  "BasePath": "_content/NoteApp.WebApp",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

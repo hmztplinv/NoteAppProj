@@ -1,0 +1,15 @@
+C:\Users\hmztp\RiderProjects\NoteApp\src\NoteApp.Application\bin\Debug\net8.0\NoteApp.Application.deps.json
+C:\Users\hmztp\RiderProjects\NoteApp\src\NoteApp.Application\bin\Debug\net8.0\NoteApp.Application.dll
+C:\Users\hmztp\RiderProjects\NoteApp\src\NoteApp.Application\bin\Debug\net8.0\NoteApp.Application.pdb
+C:\Users\hmztp\RiderProjects\NoteApp\src\NoteApp.Application\bin\Debug\net8.0\NoteApp.Domain.dll
+C:\Users\hmztp\RiderProjects\NoteApp\src\NoteApp.Application\bin\Debug\net8.0\NoteApp.Domain.pdb
+C:\Users\hmztp\RiderProjects\NoteApp\src\NoteApp.Application\obj\Debug\net8.0\NoteApp.Application.csproj.AssemblyReference.cache
+C:\Users\hmztp\RiderProjects\NoteApp\src\NoteApp.Application\obj\Debug\net8.0\NoteApp.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hmztp\RiderProjects\NoteApp\src\NoteApp.Application\obj\Debug\net8.0\NoteApp.Application.AssemblyInfoInputs.cache
+C:\Users\hmztp\RiderProjects\NoteApp\src\NoteApp.Application\obj\Debug\net8.0\NoteApp.Application.AssemblyInfo.cs
+C:\Users\hmztp\RiderProjects\NoteApp\src\NoteApp.Application\obj\Debug\net8.0\NoteApp.Application.csproj.CoreCompileInputs.cache
+C:\Users\hmztp\RiderProjects\NoteApp\src\NoteApp.Application\obj\Debug\net8.0\NoteApp..DBE1DCF2.Up2Date
+C:\Users\hmztp\RiderProjects\NoteApp\src\NoteApp.Application\obj\Debug\net8.0\NoteApp.Application.dll
+C:\Users\hmztp\RiderProjects\NoteApp\src\NoteApp.Application\obj\Debug\net8.0\refint\NoteApp.Application.dll
+C:\Users\hmztp\RiderProjects\NoteApp\src\NoteApp.Application\obj\Debug\net8.0\NoteApp.Application.pdb
+C:\Users\hmztp\RiderProjects\NoteApp\src\NoteApp.Application\obj\Debug\net8.0\ref\NoteApp.Application.dll
